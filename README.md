@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shivam8868/DataStructuresRepo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shivam8868/DataStructuresRepo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam8868/DataStructuresRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/shivam8868/DataStructuresRepo/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Array
 |  |
 | ------- |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shivam8868/DataStructuresRepo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shivam8868/DataStructuresRepo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam8868/DataStructuresRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/shivam8868/DataStructuresRepo/tree/master/1870-minimum-speed-to-arrive-on-time) |
 <!---LeetCode Topics End-->
