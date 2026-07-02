@@ -5,7 +5,9 @@ class Solution {
         //     min=Math.min(min,nums[i]);
         // }
         // return min;
-
+// the anser will be store where the array in rotated means if left half is sroted then ans  weilll be in right half 
+// sso we take the min in teh sorted in any half and checks for the another half and do teh same ultimately  we will have the min value 
+// with O(logN)
         int low=0;
         int high=nums.length-1;
         int ans=Integer.MAX_VALUE;
