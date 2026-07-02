@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shivam8868/DataStructuresRepo/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shivam8868/DataStructuresRepo/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
