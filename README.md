@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam8868/DataStructuresRepo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -235,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam8868/DataStructuresRepo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
