@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivam8868/DataStructuresRepo/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivam8868/DataStructuresRepo/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0509-fibonacci-number) |
@@ -236,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam8868/DataStructuresRepo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
