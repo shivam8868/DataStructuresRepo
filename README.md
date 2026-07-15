@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0567-permutation-in-string) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0113-path-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
