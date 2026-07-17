@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shivam8868/DataStructuresRepo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam8868/DataStructuresRepo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivam8868/DataStructuresRepo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0567-permutation-in-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/shivam8868/DataStructuresRepo/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivam8868/DataStructuresRepo/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam8868/DataStructuresRepo/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shivam8868/DataStructuresRepo/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/shivam8868/DataStructuresRepo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shivam8868/DataStructuresRepo/tree/master/0875-koko-eating-bananas) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivam8868/DataStructuresRepo/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shivam8868/DataStructuresRepo/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/shivam8868/DataStructuresRepo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0503-next-greater-element-ii) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam8868/DataStructuresRepo/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shivam8868/DataStructuresRepo/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
