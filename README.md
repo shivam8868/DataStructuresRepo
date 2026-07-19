@@ -132,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivam8868/DataStructuresRepo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivam8868/DataStructuresRepo/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shivam8868/DataStructuresRepo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivam8868/DataStructuresRepo/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
