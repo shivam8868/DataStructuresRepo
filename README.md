@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam8868/DataStructuresRepo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shivam8868/DataStructuresRepo/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivam8868/DataStructuresRepo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0567-permutation-in-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivam8868/DataStructuresRepo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/shivam8868/DataStructuresRepo/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/shivam8868/DataStructuresRepo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0503-next-greater-element-ii) |
@@ -175,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivam8868/DataStructuresRepo/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam8868/DataStructuresRepo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/shivam8868/DataStructuresRepo/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -301,4 +305,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivam8868/DataStructuresRepo/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
