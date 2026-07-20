@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shivam8868/DataStructuresRepo/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shivam8868/DataStructuresRepo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam8868/DataStructuresRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/1019-next-greater-node-in-linked-list) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shivam8868/DataStructuresRepo/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shivam8868/DataStructuresRepo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivam8868/DataStructuresRepo/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivam8868/DataStructuresRepo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivam8868/DataStructuresRepo/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
