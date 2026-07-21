@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivam8868/DataStructuresRepo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/shivam8868/DataStructuresRepo/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivam8868/DataStructuresRepo/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shivam8868/DataStructuresRepo/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/shivam8868/DataStructuresRepo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam8868/DataStructuresRepo/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivam8868/DataStructuresRepo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivam8868/DataStructuresRepo/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shivam8868/DataStructuresRepo/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/shivam8868/DataStructuresRepo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam8868/DataStructuresRepo/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam8868/DataStructuresRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shivam8868/DataStructuresRepo/tree/master/1019-next-greater-node-in-linked-list) |
