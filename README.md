@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivam8868/DataStructuresRepo/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/shivam8868/DataStructuresRepo/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shivam8868/DataStructuresRepo/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivam8868/DataStructuresRepo/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivam8868/DataStructuresRepo/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shivam8868/DataStructuresRepo/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam8868/DataStructuresRepo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/shivam8868/DataStructuresRepo/tree/master/0410-split-array-largest-sum) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam8868/DataStructuresRepo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shivam8868/DataStructuresRepo/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shivam8868/DataStructuresRepo/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
 ## Tree
