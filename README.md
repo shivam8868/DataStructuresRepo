@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivam8868/DataStructuresRepo/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/shivam8868/DataStructuresRepo/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/shivam8868/DataStructuresRepo/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shivam8868/DataStructuresRepo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivam8868/DataStructuresRepo/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/shivam8868/DataStructuresRepo/tree/master/0704-binary-search) |
