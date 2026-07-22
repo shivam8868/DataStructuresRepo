@@ -23,7 +23,8 @@ class Solution {
         // }
         // return false;
 
-                if (s1.length() > s2.length()) return false;
+        if (s1.length() > s2.length())
+            return false;
 
         int[] count1 = new int[26];
         int[] count2 = new int[26];
@@ -38,14 +39,16 @@ class Solution {
             count2[s2.charAt(i) - 'a']++;
         }
 
-        if (Arrays.equals(count1, count2)) return true;
+        if (Arrays.equals(count1, count2))
+            return true;
 
         // slide window
         for (int i = s1.length(); i < s2.length(); i++) {
             count2[s2.charAt(i) - 'a']++; // add new char
             count2[s2.charAt(i - s1.length()) - 'a']--; // remove old char
 
-            if (Arrays.equals(count1, count2)) return true;
+            if (Arrays.equals(count1, count2))
+                return true;
         }
 
         return false;
