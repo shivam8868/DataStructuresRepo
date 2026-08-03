@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivam8868/DataStructuresRepo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/shivam8868/DataStructuresRepo/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivam8868/DataStructuresRepo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivam8868/DataStructuresRepo/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shivam8868/DataStructuresRepo/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/shivam8868/DataStructuresRepo/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/shivam8868/DataStructuresRepo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam8868/DataStructuresRepo/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivam8868/DataStructuresRepo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivam8868/DataStructuresRepo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/shivam8868/DataStructuresRepo/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shivam8868/DataStructuresRepo/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/shivam8868/DataStructuresRepo/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam8868/DataStructuresRepo/tree/master/0700-search-in-a-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shivam8868/DataStructuresRepo/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
