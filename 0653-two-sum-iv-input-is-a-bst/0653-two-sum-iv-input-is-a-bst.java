@@ -14,16 +14,44 @@
  * }
  */
 class Solution {
-    public boolean findTarget(TreeNode root, int k) {
-        // first approach use a hash set simple
+    // public boolean findTarget(TreeNode root, int k) {
+    //     // first approach use a hash set simple
 
-        Set<Integer> set=new HashSet<>();
-        return checkInteger(root,set,k);
+    //     Set<Integer> set=new HashSet<>();
+    //     return checkInteger(root,set,k);
+    // }
+    // private boolean checkInteger(TreeNode root,Set<Integer> set,int k) {
+    //     if(root==null) return false;
+    //     if(set.contains(k-root.val)) return true;
+    //     set.add(root.val);
+    //     return checkInteger(root.left,set,k)||checkInteger(root.right,set,k);
+    // }
+
+    ///////////////////////////
+
+    // another approach use inroder traverse sotre elements into the lisst and use twopointers to find the pairs 
+
+    public boolean findTarget(TreeNode root, int k) {
+        List<Integer> nums = new ArrayList<>();
+        inorder(root, nums);
+        int left = 0, right = nums.size() - 1;
+        while (left < right) {
+            int sum = nums.get(left) + nums.get(right);
+            if (sum == k)
+                return true;
+            else if (sum < k)
+                left++;
+            else
+                right--;
+        }
+        return false;
     }
-    private boolean checkInteger(TreeNode root,Set<Integer> set,int k) {
-        if(root==null) return false;
-        if(set.contains(k-root.val)) return true;
-        set.add(root.val);
-        return checkInteger(root.left,set,k)||checkInteger(root.right,set,k);
+
+    private void inorder(TreeNode root, List<Integer> nums) {
+        if (root == null)
+            return;
+        inorder(root.left, nums);
+        nums.add(root.val);
+        inorder(root.right, nums);
     }
 }
